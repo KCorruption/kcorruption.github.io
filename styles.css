@@ -3,13 +3,13 @@ body {
 }
 
 h1 {
-  max-width: 600px;
-  margin: 0 auto;
+  max-width: auto;
+  text-align: center;
 }
 
 h2 {
-  max-width: 600px;
-  margin: 0 auto;
+  max-width: auto;
+  text-align: center;
 }
 
 .dropbtn {
