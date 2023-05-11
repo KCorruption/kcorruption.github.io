@@ -2,6 +2,22 @@ body {
   background-color: #696969;
 }
 
+.tmog-box {
+  background-color: #808080;
+  border: 1px solid blue;
+  padding: 10px;
+  text-align: center;
+}
+
+.mogpics {
+  max-inline-size: 19%;
+  display: flex;
+}
+
+.mogpics img {
+  margin: 5px;
+}
+
 h1 {
   max-width: auto;
   text-align: center;
