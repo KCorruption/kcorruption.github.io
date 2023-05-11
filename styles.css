@@ -18,6 +18,14 @@ body {
   margin: 5px;
 }
 
+.functpics {
+  display: flex;
+}
+
+.functpics img {
+  margin: 2px
+}
+
 h1 {
   max-width: auto;
   text-align: center;
