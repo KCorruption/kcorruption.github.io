@@ -4,5 +4,3 @@ Everything I've done so far as been a result of consultation with chatGPT (gathe
 As well as other resources such as W3 schools.
 
 The subject is for world of warcraft, and features topics like fun items, and gold making methods.
-
-If you want to contribute, feel free to discuss this with me via discord. Kacey#0157
