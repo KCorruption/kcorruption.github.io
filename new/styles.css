@@ -1,0 +1,20 @@
+table, th, td {
+  border: 2px solid;
+  text-align: center;
+}
+
+.center {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+img {
+
+	width: auto;
+	height: 25vh;
+}
+
+body {
+
+	background-color:#878487;
+}
